@@ -42,7 +42,7 @@ is initialized due to [this limitation](https://github.com/docker-library/mysql/
 run:
 
 ```
-docker-compose up esaude-platform-mysql
+docker-compose up esaude-metadata-mysql
 ```
 
 When you see the following, and nothing more is being logged to the console, it's done initializing:
